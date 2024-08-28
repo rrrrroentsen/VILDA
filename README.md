@@ -1,4 +1,4 @@
-# VILDA
+## VILDA
 
 VILDA (Viral RNA Detection and Analysis) is a tool designed for detecting and analyzing viral transcripts in bulkRNA-Seq data.
 
@@ -14,7 +14,7 @@ VILDA (Viral RNA Detection and Analysis) is a tool designed for detecting and an
 
    After downloading, move all the files to a directory where you plan to store the references, e.g., `/path/to/reference_dir`.
 
-3. **Usage**:
+## Usage
 
 ### Step 1: Build Reference
 
@@ -36,10 +36,11 @@ python VILDA_detect_viral_transcripts.py --reference_dir /path/to/reference_dir 
                                          --output_dir /path/to/output_dir \
                                          --threads 56
 
-Author Information
-• VILDA is developed by Xiaosheng Liu (ORCID 0000-0003-4282-5740)
+## Author Information
 
-Additional Notes
+VILDA is developed by Xiaosheng Liu (ORCID 0000-0003-4282-5740)
+
+## Additional Notes
 For more detailed instructions and examples, please refer to the package documentation.
 
 If you encounter any issues or have suggestions for improvement, please open an issue on GitHub.
