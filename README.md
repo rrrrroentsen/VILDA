@@ -8,8 +8,9 @@ VILDA (Viral RNA Detection and Analysis) is a tool designed for detecting and an
 
    Since the reference files are too large to be stored on GitHub, they are hosted on Google Drive. You can download them using the following links:
 
-   - [Homo_sapiens.GRCh38.fa], [Homo_sapiens.GRCh38.111.gtf], [VILDA.fasta], [VILDA.gtf], [VILDA.mmi](https://drive.google.com/drive/folders/1Y4ApWSGvvb6EhItm7unzqUMjBACWk0Lb)
-
+   - [Homo_sapiens.GRCh38.fa], [Homo_sapiens.GRCh38.111.gtf], [VILDA.fasta], [VILDA.gtf], [VILDA.mmi]
+   - https://drive.google.com/drive/folders/1Y4ApWSGvvb6EhItm7unzqUMjBACWk0Lb
+ 
 2. **Unpack Reference Files**:
 
    After downloading, move all the files to a directory where you plan to store the references, e.g., `/path/to/reference_dir`.
@@ -42,7 +43,5 @@ VILDA is developed by Xiaosheng Liu (ORCID 0000-0003-4282-5740)
 
 ## Additional Notes
 For more detailed instructions and examples, please refer to the package documentation.
-
 If you encounter any issues or have suggestions for improvement, please open an issue on GitHub.
-
 This package is provided as-is under the MIT License.
