@@ -1,6 +1,6 @@
 ## VILDA
 
-VILDA (Viral RNA Detection and Analysis) is a tool designed for detecting and analyzing viral transcripts in bulkRNA-Seq data.
+VILDA (Viral Identification and Load Detection Analysis) is a tool designed for detecting and analyzing viral transcripts in bulkRNA-Seq data.
 
 ## Installation
 
